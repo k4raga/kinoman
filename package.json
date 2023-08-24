@@ -7,7 +7,6 @@
     "last 2 versions",
     "not dead",
     "not ie <= 11",
-    "not op_min all",
     "not < 0.25%"
   ],
   "scripts": {
